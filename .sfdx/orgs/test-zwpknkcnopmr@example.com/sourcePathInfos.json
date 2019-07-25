@@ -1,0 +1,646 @@
+[
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563961559838,
+            "changeTime": 1563961559838,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563961559839,
+            "changeTime": 1563961559839,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563974095310,
+            "changeTime": 1563974095310,
+            "contentHash": "9b389beb7747131dca3baa8d3d25b74703c013d7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563982259119,
+            "changeTime": 1563982259119,
+            "contentHash": "ecb4e4ec6f8e0aaca697f7aa118c7a38aef14dba",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\deleteRecordContent",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\deleteRecordContent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563974095336,
+            "changeTime": 1563974095336,
+            "contentHash": "814626748c9944273b8126d5e977de46961b5fc4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\deleteRecordContent\\deleteRecordContent.cmp",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\deleteRecordContent\\deleteRecordContent.cmp",
+            "isDirectory": false,
+            "size": 218,
+            "modifiedTime": 1563974095337,
+            "changeTime": 1563974095337,
+            "contentHash": "274d60190fe4c1fcfb0e99e7826af6cfe4ef962e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\deleteRecordContent\\deleteRecordContent.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\deleteRecordContent\\deleteRecordContent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1563974095322,
+            "changeTime": 1563974095322,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\deleteRecordFooter",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\deleteRecordFooter",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563974095346,
+            "changeTime": 1563974095346,
+            "contentHash": "7f0251b46c3c64288a80acaa1b7b974be4db4be5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\deleteRecordFooter\\deleteRecordFooter.cmp",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\deleteRecordFooter\\deleteRecordFooter.cmp",
+            "isDirectory": false,
+            "size": 455,
+            "modifiedTime": 1563974095344,
+            "changeTime": 1563974095344,
+            "contentHash": "25bd3b881bcb37e74fe99b48c6830eb37e65dec7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\deleteRecordFooter\\deleteRecordFooter.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\deleteRecordFooter\\deleteRecordFooter.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1563974095342,
+            "changeTime": 1563974095342,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\deleteRecordFooter\\deleteRecordFooterController.js",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\deleteRecordFooter\\deleteRecordFooterController.js",
+            "isDirectory": false,
+            "size": 1170,
+            "modifiedTime": 1563974095347,
+            "changeTime": 1563974095347,
+            "contentHash": "dccf781aef8ec18c357f0f79d11a4d69f85ae231",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\demoPage",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\demoPage",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563974095357,
+            "changeTime": 1563974095357,
+            "contentHash": "edee1621e61342cb2a1ddcb3597d99638210f858",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\demoPage\\demoPage.cmp",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\demoPage\\demoPage.cmp",
+            "isDirectory": false,
+            "size": 5481,
+            "modifiedTime": 1564042942554,
+            "changeTime": 1564042942554,
+            "contentHash": "bfd1068aea1ac06cfb2423a50c5d0a58f9fd3639",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\demoPage\\demoPage.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\demoPage\\demoPage.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1563974095353,
+            "changeTime": 1563974095353,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\demoPage\\demoPageController.js",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\demoPage\\demoPageController.js",
+            "isDirectory": false,
+            "size": 1761,
+            "modifiedTime": 1563974095358,
+            "changeTime": 1563974095358,
+            "contentHash": "01e7946f9d6f76cbcdddf75ec5ac2819ddfe6e3e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\singleRelatedList",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\singleRelatedList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563974095372,
+            "changeTime": 1563974095372,
+            "contentHash": "0b8eadf94b9980c4846d89ff7975ac6241319fbe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\singleRelatedList\\singleRelatedList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\singleRelatedList\\singleRelatedList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3499,
+            "modifiedTime": 1564045062993,
+            "changeTime": 1564045062993,
+            "isWorkspace": false,
+            "contentHash": "1fad3da9f094569fb8fdb68d14a82fa9b8e804fb"
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\singleRelatedList\\singleRelatedList.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\singleRelatedList\\singleRelatedList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1563974095365,
+            "changeTime": 1563974095365,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\singleRelatedList\\singleRelatedList.css",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\singleRelatedList\\singleRelatedList.css",
+            "isDirectory": false,
+            "size": 588,
+            "modifiedTime": 1563974095369,
+            "changeTime": 1563974095369,
+            "contentHash": "a778cf256d83f2e4a7d207b8998954cadc927c12",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\singleRelatedList\\singleRelatedListController.js",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\singleRelatedList\\singleRelatedListController.js",
+            "isDirectory": false,
+            "size": 2706,
+            "modifiedTime": 1564040998420,
+            "changeTime": 1564040998420,
+            "contentHash": "ae5ed3320420a8358969fb8c29440943f1e5e8f2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\singleRelatedList\\singleRelatedListHelper.js",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\singleRelatedList\\singleRelatedListHelper.js",
+            "isDirectory": false,
+            "size": 5121,
+            "modifiedTime": 1564042004288,
+            "changeTime": 1564042004288,
+            "contentHash": "d5dbec6cc444429acf8c1e016464bfedf15f232e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563974095290,
+            "changeTime": 1563974095290,
+            "contentHash": "45862f772122c76556e842ef0c590e06dea13013",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\classes\\SingleRelatedListController.cls",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\classes\\SingleRelatedListController.cls",
+            "isDirectory": false,
+            "size": 4672,
+            "modifiedTime": 1563974095276,
+            "changeTime": 1563974095276,
+            "contentHash": "25ce2e9c7e89bda86cde905804eaab73c017c0a8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\classes\\SingleRelatedListController.cls-meta.xml",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\classes\\SingleRelatedListController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1563974095271,
+            "changeTime": 1563974095271,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\classes\\SingleRelatedListControllerTest.cls",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\classes\\SingleRelatedListControllerTest.cls",
+            "isDirectory": false,
+            "size": 1457,
+            "modifiedTime": 1563974095291,
+            "changeTime": 1563974095291,
+            "contentHash": "a80f20ea3288cd8308bf8a2ec5f7d1e0cbc9a01f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\classes\\SingleRelatedListControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\classes\\SingleRelatedListControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1563974095288,
+            "changeTime": 1563974095288,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563974095299,
+            "changeTime": 1563974095299,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 470,
+            "modifiedTime": 1563974095300,
+            "changeTime": 1563974095300,
+            "contentHash": "b1903757671a1e7d0fe587a83e0c98ec700ed72a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563961559842,
+            "changeTime": 1563961559842,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563974095313,
+            "changeTime": 1563974095313,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "size": 304,
+            "modifiedTime": 1563974095313,
+            "changeTime": 1563974095313,
+            "contentHash": "3d1d710b71b9fce2d648ebcce94277169ea4246c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563974129423,
+            "changeTime": 1563974129423,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\EventTransferJSON",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\EventTransferJSON",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563980419500,
+            "changeTime": 1563980419500,
+            "contentHash": "6a2704e2fead54bf5eaa875df75f4914706d46d1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\EventTransferJSON\\EventTransferJSON.evt",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\EventTransferJSON\\EventTransferJSON.evt",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1564040957553,
+            "changeTime": 1564040957553,
+            "contentHash": "6f91410079407f5aaac5618a060425aa3c7d2e75",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\EventTransferJSON\\EventTransferJSON.evt-meta.xml",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\EventTransferJSON\\EventTransferJSON.evt-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1563980419501,
+            "changeTime": 1563980419501,
+            "contentHash": "fc065636365d749abfd408b80b5ebef1c927db63",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1563982259135,
+            "changeTime": 1563982259135,
+            "contentHash": "5e38ed919b2ace07262d7cd258f5bacb2cc855b3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEvent.auradoc",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEvent.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1563982259134,
+            "changeTime": 1563982259134,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEvent.cmp",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEvent.cmp",
+            "isDirectory": false,
+            "size": 1126,
+            "modifiedTime": 1564044915766,
+            "changeTime": 1564044915766,
+            "contentHash": "1de4e2f4e1f7be73a8e7fbe6dbfc6709fc8d1d48",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEvent.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEvent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1563982259125,
+            "changeTime": 1563982259125,
+            "contentHash": "a1ddc7e6a7f9fe0ae478e30b22f158dd82c225a7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEvent.css",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEvent.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1563982259130,
+            "changeTime": 1563982259130,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEvent.design",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEvent.design",
+            "isDirectory": false,
+            "size": 102,
+            "modifiedTime": 1564044867396,
+            "changeTime": 1564044867396,
+            "contentHash": "70e8cc0052f20e2dab4c847ec6642cd30bc69eee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEvent.svg",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEvent.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1563982259133,
+            "changeTime": 1563982259133,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEventController.js",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEventController.js",
+            "isDirectory": false,
+            "size": 740,
+            "modifiedTime": 1564044961177,
+            "changeTime": 1564044961177,
+            "contentHash": "4f3b58010a54d19616971cdf438a87dccdbaa149",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEventHelper.js",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEventHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1563982259128,
+            "changeTime": 1563982259128,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEventRenderer.js",
+        {
+            "sourcePath": "D:\\LEARN_PROJECTS\\relatedList\\testRelatedList\\force-app\\main\\default\\aura\\catchEvent\\catchEventRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1563982259131,
+            "changeTime": 1563982259131,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]

@@ -1,0 +1,4 @@
+<aura:event type="APPLICATION" description="EventTransferJSON">
+    <aura:attribute name="json" access="public" type="String"/>
+    <aura:attribute name="dataType" access="public" type="String"/>
+</aura:event>
